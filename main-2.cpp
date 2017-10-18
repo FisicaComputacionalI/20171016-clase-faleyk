@@ -1,4 +1,4 @@
-//programa que suma los números pares entre el 1 y el 20
+//programa que suma los números pares entre el 1 y el 20, incluyendo el 20.
 //Autor: Fabiola Canete
 //18 octubre 2017
 #include <iostream>
