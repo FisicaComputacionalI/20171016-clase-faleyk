@@ -9,8 +9,8 @@ int main()
 {
     int sum=0, count =1;
 
-    while (count < 20) {
-        if ((count%2)<1){
+    while (count < 21) { // o bien podemos escribir (count<=0)
+        if ((count%2)<1){ //o bien podemos escribir (count%2)==0
             sum=sum+count;
         }
         count++;
